@@ -1,1 +1,1 @@
-# robotrank-template
+# controller-submission-template
